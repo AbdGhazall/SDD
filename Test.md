@@ -24,4 +24,4 @@ SDLC Steps:
 
 ![ASU Logo](https://upload.wikimedia.org/wikipedia/ar/8/82/ASU_Jordan_logo.PNG)
 
-![ASU Logo]()
+![ASU Logo](https://github.com/AbdGhazall/SDD/blob/main/ASU%20Logo2.jpg)

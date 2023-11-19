@@ -35,3 +35,15 @@ Full source code (block)
 
     Scanner s = new Scanner(System.in)
     int number = s.redInt();
+
+---
+(Table)
+
+| First  | Second |
+| -----  | ------ |
+| A      | B |
+
+(Tasks list)
+[x] Task1
+
+

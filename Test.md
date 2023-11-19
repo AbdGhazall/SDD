@@ -1,6 +1,8 @@
 # Task1
+this is first task
 
 ## Task2
+this is second task
 
 ### Task3
 
@@ -25,3 +27,10 @@ SDLC Steps:
 ![ASU Logo](https://upload.wikimedia.org/wikipedia/ar/8/82/ASU_Jordan_logo.PNG)
 
 ![ASU Logo](https://github.com/AbdGhazall/SDD/blob/main/ASU%20Logo2.jpg)
+
+print in Flutter  `print('Hello, Dart! ');` (Inline)
+
+Full source code (block)
+
+    Scanner s = new Scanner(System.in)
+    int number = s.redInt();

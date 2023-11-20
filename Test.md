@@ -24,6 +24,7 @@ SDLC Steps:    (unordered list)
 - Operation
 
 [Edugate](https://edugate.asu.edu.jo/login/index.php) (link)
+[jawad](https://www.victoriassecret.com/us/)
 
 ![ASU Logo](https://upload.wikimedia.org/wikipedia/ar/8/82/ASU_Jordan_logo.PNG)  (img from google)
 

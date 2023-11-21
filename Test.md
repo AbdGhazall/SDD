@@ -48,3 +48,6 @@ Full source code (block)
 [x] Task1
 
 
+You can also ~~Strike-through~~ words and denote inline `code`
+
+
